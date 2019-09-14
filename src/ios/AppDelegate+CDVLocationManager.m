@@ -51,6 +51,7 @@
     BOOL launchedWithoutOptions = launchOptions == nil;
     
     if (!launchedWithoutOptions) {
+     //background 
         //[self requestMoreBackgroundExecutionTime];
     }
     
